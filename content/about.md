@@ -4,6 +4,8 @@ date = "2014-04-09"
 menu = "main"
 +++
 
+test 2
+
 Hugo is a static site engine written in go.
 
 
